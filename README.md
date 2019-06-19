@@ -1,7 +1,5 @@
 # Base API em Node.js
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
 ![](https://img.shields.io/github/stars/schanbr/base-nodeapi.svg) ![](https://img.shields.io/github/forks/schanbr/base-nodeapi.svg) ![](https://img.shields.io/github/tagschanbr/base-nodeapi.svg) ![](https://img.shields.io/github/release/schanbr/base-nodeapi.svg) ![](https://img.shields.io/github/issues/schanbr/base-nodeapi.svg) ![](https://img.shields.io/bower/v/schanbr/base-nodeapi.svg)
 
 ### Configurações
